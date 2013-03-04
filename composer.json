@@ -14,5 +14,8 @@
             "name": "Stepan Anchugov",
             "email": "kixxx1@gmail.com"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-0": { "Kix\\SearchBundle": "" }
+    },
 }
